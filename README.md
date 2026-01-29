@@ -6,9 +6,11 @@ Il s'agit d'une implémentation du jeu de plateau Othello.
 - Anas SEMGHOUNI
 - Wael BEN MOUSSA
 
-## Remarque
-Ce projet a été réalisé avant l’introduction de la programmation orientée objet.
-Il reflète un stade d’apprentissage antérieur.
+## Remarques
+- Ce projet a été réalisé avant l’introduction de la programmation orientée objet.
+  Il reflète un stade d’apprentissage antérieur.
+- Le développement ayant été réalisé en binôme, la collaboration s’est faite localement ;
+  l’utilisation de Git n’était pas encore maîtrisée à ce stade.
 
 ## Fonctionnalités
 - Plateau de jeu Othello
